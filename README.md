@@ -1,6 +1,6 @@
 # data-products-cloud  
 
-On getting data products into the Cloud using Python.  
+On cloud-based data science and getting data products into the Cloud using Python.  
 
 - Benefits of cloud computing: elasticity and resource efficiency.  
 - Libraries.  
